@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CtoJava", "CtoJava\CtoJava.csproj", "{0EBE8F76-9A97-46C2-A052-20937347CE56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EBE8F76-9A97-46C2-A052-20937347CE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBE8F76-9A97-46C2-A052-20937347CE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBE8F76-9A97-46C2-A052-20937347CE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBE8F76-9A97-46C2-A052-20937347CE56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8228293-65CE-4B03-AA7A-D30D27354C15}
+	EndGlobalSection
+EndGlobal

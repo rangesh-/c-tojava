@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CtoJava": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
